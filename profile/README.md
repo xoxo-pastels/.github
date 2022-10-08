@@ -1,6 +1,6 @@
 ## Welcome to xoxo, pastel! 👋
 ![placeholder](https://user-images.githubusercontent.com/112826340/189335912-ab8ec2f3-7ded-4a47-b5f9-ecc8b32ab57d.png)
-[xoxo, pastel](https://group.xoxopastel.com) specializes in avatar creation and user-generated content on the platform @Roblox
+[xoxo, pastel](https://group.xoxopastel.com) specializes in avatar creation and user-generated content on the platform [@Roblox](https:/www.github.com/roblox)
 <!--
 
 **Here are some ideas to get you started:**
